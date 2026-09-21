@@ -20,6 +20,15 @@ and cybersecurity.
 - JavaScript
 - Git & GitHub
 
+## 📚 Currently Learning
+
+- Cybersecurity
+- Network Security
+- Cloud Security
+- JavaScript
+- Git & GitHub
+- Networking
+  
 ### IT & Networking
 - IT Support
 - Hardware & Software Troubleshooting
@@ -76,3 +85,5 @@ Zetech University
 
 - LinkedIn: [Fredrick Abira](https://www.linkedin.com/in/fredrick-abira-799665370)
 - GitHub: [Abira28](https://github.com/Abira28)
+- Email: fredrickabira635@gmail.com
+  
