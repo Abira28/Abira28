@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Fredrick Abira 👋
 
-<!--
-**Abira28/Abira28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IT Graduate | Cybersecurity | IT Support | Frontend Development
 
-Here are some ideas to get you started:
+I'm an Information Technology graduate with an interest in
+cybersecurity, IT support, networking, cloud security, and
+web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects, solving technical problems,
+and continuously developing my skills in information technology
+and cybersecurity.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Web Development
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+### IT & Networking
+- IT Support
+- Hardware & Software Troubleshooting
+- Network Troubleshooting
+- Windows Administration
+- DNS & Networking Fundamentals
+- Basic Active Directory
+
+### Cybersecurity
+- Cybersecurity Fundamentals
+- Network Security
+- Vulnerability Assessment
+- Security Best Practices
+- Identity & Access Management
+- Security Monitoring Fundamentals
+
+---
+
+## 🚀 Projects
+
+### 🦆 Duck Inventory & Sales System
+An inventory and sales management system designed to help
+manage products, stock and sales records.
+
+### 💊 Pharmacy Website
+A website project designed to provide information and services
+for a pharmacy.
+
+### 🐾 Veterinary Website
+A responsive website project for a veterinary service.
+
+### 🎮 Rock Paper Scissors
+A browser-based game developed using HTML, CSS and JavaScript.
+
+---
+
+## 🎓 Education
+
+**Diploma in Information Technology**
+
+Zetech University
+
+---
+
+## 📜 Certifications & Training
+
+- Cybersecurity Analyst – TATA
+- Deloitte Job Simulation
+- Cisco Cybersecurity / Networking Training
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Fredrick Abira](https://www.linkedin.com/in/fredrick-abira-799665370)
+- GitHub: [Abira28](https://github.com/Abira28)
